@@ -1,0 +1,14 @@
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\bin\Debug\netcoreapp3.1\SpecialSort.exe
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\bin\Debug\netcoreapp3.1\SpecialSort.deps.json
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\bin\Debug\netcoreapp3.1\SpecialSort.runtimeconfig.json
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\bin\Debug\netcoreapp3.1\SpecialSort.runtimeconfig.dev.json
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\bin\Debug\netcoreapp3.1\SpecialSort.dll
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\bin\Debug\netcoreapp3.1\SpecialSort.pdb
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.csproj.AssemblyReference.cache
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.AssemblyInfoInputs.cache
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.AssemblyInfo.cs
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.csproj.CoreCompileInputs.cache
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.dll
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.pdb
+C:\Users\cekicen\source\repos\SpecialSort\SpecialSort\obj\Debug\netcoreapp3.1\SpecialSort.genruntimeconfig.cache
